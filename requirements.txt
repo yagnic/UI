@@ -1,0 +1,2 @@
+alpaca_trade_api==3.0.2
+streamlit==1.27.1
